@@ -257,7 +257,7 @@ p {
 /*------------------*/
 /*   MEDIA QUERY    */
 /*------------------*/
-@media only screen and (min-width: 481px) and (max-width: 840px) {
+@media screen and (width: 840px) {
     header {
         height: 10vh;
     }
@@ -300,7 +300,7 @@ p {
     }
 }
 @media screen and (width: 480px) {
-    .link {
+    nav ul li a {
         display: none;
     }
 }
