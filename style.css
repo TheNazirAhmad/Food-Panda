@@ -302,7 +302,7 @@ p {
         margin-left: 55px;
     }
 }
-@media screen and (max-width: 353px) {
+@media screen and (max-width: 352px) {
     header {
         height: 8vh;
     }
